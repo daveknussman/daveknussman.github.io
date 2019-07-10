@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {font-family: 'Montserrat', Arial, sans-serif;}
+h1 small {font-family: Courier, opacity: .2;}
+h2 {font-family: 'Roboto', Arial, sans-serif;}
+h4 {font-variant-caps: all-small-caps;}
